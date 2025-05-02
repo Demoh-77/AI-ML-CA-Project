@@ -221,8 +221,5 @@ zero-trust-iot-security/
 ## License
 This project is licensed under the MIT License.
 
-## Contact
-For questions or contributions, please open an issue or contact the project maintainer.
-
 ---
 *Generated on May 1, 2025*
